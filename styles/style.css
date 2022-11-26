@@ -120,3 +120,72 @@
   font-size: 24px;
   font-weight: 600;
 }
+
+.content_digits {
+  display: flex;
+  flex-direction: column;
+}
+
+.digits-title {
+  width: 60%;
+  margin-bottom: 20px;
+  text-align: center;
+  align-self: center;
+}
+
+.text-digits-title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.digits-subtitle {
+  width: 60%;
+  margin-bottom: 0;
+  text-align: center;
+  align-self: center;
+}
+
+.text-digits-subtitle {
+  line-height: 34px;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+}
+
+.table__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+  display:
+}
+
+.heading__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.text_bank {
+  margin-top: 20px;
+}
+
+.digits_table-first {
+  width: 1100px;
+  margin: 60px auto;
+}
+
+.digits_table-second {
+  width: 1100px;
+  margin: 0 auto 100px auto;
+}
+
+.table__cell {
+  display: inline-block;
+  width: 250px;
+  text-align: start;
+  vertical-align: text-top;
+  margin: auto 10px;
+}
