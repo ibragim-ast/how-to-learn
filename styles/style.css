@@ -40,7 +40,6 @@
   line-height: 96px;
   font-size: 102px;
   font-style: 600;
-  z-index: 100;
 }
 
 .header__subtitle-text {
@@ -182,7 +181,6 @@
 .feynman-title {
   width: 648px;
   z-index: 100;
-  width: 648px;
   align-self: center;
   margin-top: 100px;
 }
