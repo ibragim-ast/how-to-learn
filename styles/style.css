@@ -24,8 +24,6 @@
   left: 64px;
   justify-content: center;
   z-index: 100;
-  width: 228px;
-  height: 32px;
 }
 
 .header__title {
@@ -279,7 +277,7 @@
   justify-content: space-between;
 }
 
-.logo_place_footer {
+.logo {
   width: 228px;
   height: 32px;
 }
