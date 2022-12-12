@@ -5,4 +5,5 @@
   margin: 0 auto 100px;
   justify-content: space-between;
   z-index: 100;
+  padding-left: 0;
 }
